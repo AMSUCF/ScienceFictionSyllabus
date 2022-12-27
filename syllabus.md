@@ -1,42 +1,54 @@
-# ENG 3817: Digital Archives
+# LIT 3313H: Honors Science Fiction Literature
 
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** anastasia@ucf.edu; Webcourses preferred
-- **Office Hours:** Zoom; Tuesday 12 - 3 PM
-- **Course Meeting:** Asynchronous Online
+- **Office Hours:** TCH 236B, Tuesday / Thursday 10:30-11:30 AM
+- **Course Meeting:** Tuesday / Thursday 12:00 - 1:15 PM
   
 ---
 
 - **Credit Hours:** 3
-- **Prerequisites:** Grade of "C" (2.0) or better in ENC 1102 or C.I.
+- **Prerequisites:** Permission of Honors and ENC 1102H or equivalent credit.
 
 ## Contents
 
-- [ENG 3817: Digital Archives](#eng-3817-digital-archives)
+- [LIT 3313H: Honors Science Fiction Literature](#lit-3313h-honors-science-fiction-literature)
   - [Contents](#contents)
   - [Course Description](#course-description)
   - [Course Objectives](#course-objectives)
   - [Materials and Texts](#materials-and-texts)
   - [Evaluation and Grading](#evaluation-and-grading)
-  - [Asynchronous Online Course Structure](#asynchronous-online-course-structure)
   - [Weekly Schedule](#weekly-schedule)
-    - [Week One: Introduction (Monday, January 10)](#week-one-introduction-monday-january-10)
-    - [Week Two: Preservation (Monday, January 17)](#week-two-preservation-monday-january-17)
-    - [Week Three: Digital Objects (Monday, January 24)](#week-three-digital-objects-monday-january-24)
-    - [Week Four: Challenges (Monday, January 31)](#week-four-challenges-monday-january-31)
-    - [Week Five: Craft (Monday, February 7)](#week-five-craft-monday-february-7)
-    - [Week Six: Formats (Monday, February 14)](#week-six-formats-monday-february-14)
-    - [Week Seven: Metadata (Monday, February 21)](#week-seven-metadata-monday-february-21)
-    - [Week Eight: Multimodal (Monday, February 28)](#week-eight-multimodal-monday-february-28)
-    - [Spring Break: Enjoy the holiday! (Monday, March 7)](#spring-break-enjoy-the-holiday-monday-march-7)
-    - [Week Nine: Tools (Monday, March 14)](#week-nine-tools-monday-march-14)
-    - [Week Ten: Timelines (Monday, March 21)](#week-ten-timelines-monday-march-21)
-    - [Week Eleven: Memory (Monday, March 28)](#week-eleven-memory-monday-march-28)
-    - [Week Twelve: Styles (Monday, April 4)](#week-twelve-styles-monday-april-4)
-    - [Week Thirteen: Histories (Monday, April 11)](#week-thirteen-histories-monday-april-11)
-    - [Week Fourteen: Futures (Monday, April 18)](#week-fourteen-futures-monday-april-18)
-    - [Week Fifteen: Data (Monday, April 25)](#week-fifteen-data-monday-april-25)
-    - [Final Exam: Reflection (Due Sunday, May 1st)](#final-exam-reflection-due-sunday-may-1st)
+    - [Week One: Introduction (Tuesday, January 10)](#week-one-introduction-tuesday-january-10)
+    - [Week One: 1900s (Thursday, January 12)](#week-one-1900s-thursday-january-12)
+    - [Week Two: 1910s (Tuesday, January 17)](#week-two-1910s-tuesday-january-17)
+    - [Week Two: 1920s (Thursday, January 19)](#week-two-1920s-thursday-january-19)
+    - [Week Three: 1930s (Tuesday, January 24)](#week-three-1930s-tuesday-january-24)
+    - [Week Three: 1940s (Thursday, January 26)](#week-three-1940s-thursday-january-26)
+    - [Week Four: Entering the 1950s (Tuesday, January 31)](#week-four-entering-the-1950s-tuesday-january-31)
+    - [Week Four: Earth and Stars (Thursday, February 2)](#week-four-earth-and-stars-thursday-february-2)
+    - [Week Five: Strangers and Visitors (Tuesday, February 7)](#week-five-strangers-and-visitors-tuesday-february-7)
+    - [Week Five: Closing the 1950s (Thursday, February 9)](#week-five-closing-the-1950s-thursday-february-9)
+    - [Week Six: Entering the 1960s (Tuesday, February 14)](#week-six-entering-the-1960s-tuesday-february-14)
+    - [Week Six: Wrath and Darkness (Thursday, February 16)](#week-six-wrath-and-darkness-thursday-february-16)
+    - [Week Seven: Bodies (Tuesday, February 21)](#week-seven-bodies-tuesday-february-21)
+    - [Week Seven: Closing the 1960s (Thursday, February 23)](#week-seven-closing-the-1960s-thursday-february-23)
+    - [Week Eight: Into the 1970s (Tuesday, February 28)](#week-eight-into-the-1970s-tuesday-february-28)
+    - [Week Eight: Names (Thursday, March 2)](#week-eight-names-thursday-march-2)
+    - [Week Nine: Closing the 1970s (Tuesday, March 7)](#week-nine-closing-the-1970s-tuesday-march-7)
+    - [Week Nine: Into the 1980s (Thursday, March 9)](#week-nine-into-the-1980s-thursday-march-9)
+    - [Spring Break: Enjoy the holiday!](#spring-break-enjoy-the-holiday)
+    - [Week Ten: Concluding Vint (Tuesday, March 21)](#week-ten-concluding-vint-tuesday-march-21)
+    - [Week Ten: Artifice (Thursday, March 23)](#week-ten-artifice-thursday-march-23)
+    - [Week Eleven: Art and Culture (Tuesday, March 28)](#week-eleven-art-and-culture-tuesday-march-28)
+    - [Week Eleven: Drafts Due (Thursday, March 30)](#week-eleven-drafts-due-thursday-march-30)
+    - [Week Twelve: Closing the 1980s (Tuesday, April 4)](#week-twelve-closing-the-1980s-tuesday-april-4)
+    - [Week Twelve: Entering the 1990s (Thursday, April 6)](#week-twelve-entering-the-1990s-thursday-april-6)
+    - [Week Thirteen: Transitions (Tuesday, April 11)](#week-thirteen-transitions-tuesday-april-11)
+    - [Week Thirteen: Entering 2000 (Thursday, April 13)](#week-thirteen-entering-2000-thursday-april-13)
+    - [Week Fourteen: Futures (Tuesday, April 18)](#week-fourteen-futures-tuesday-april-18)
+    - [Week Fourteen: Conclusions (Thursday, April 20)](#week-fourteen-conclusions-thursday-april-20)
+    - [Final Paper: Due During Exam Period](#final-paper-due-during-exam-period)
   - [General Policies](#general-policies)
     - [Gordon Rule and Academic Standards](#gordon-rule-and-academic-standards)
     - [Academic Integrity](#academic-integrity)
@@ -52,42 +64,42 @@
 ## Course Description
 
 <p align="center">
-<img src="digitalarchives.png">
+<img src="scificourse.jpg">
 </p>
 <p align="center">
-<i>Digital Archives by Gary Larson, as generated by Pixray</i>
+<i>Epcot Center of the future, as generated by Midjourney</i>
 </p>
 
-We are surrounded by "content": in the average day, each of us who uses social media (from Facebook and Twitter to Instagram, TikTok, and Discord) shares and creates text, images, video, and even interactive work. We often think of this cultural history we are all constantly creating as simultaneously ephemeral and eternal, and yet the reality is that we are constantly in a state of losing the history of what we have all made. Active preservation is just as essential now as it is in the context of historical work, but the tools have changed: digital archives offer both new promise, and new challenges, to sustaining our access to cultural, literary, and textual history.
+This course will survey the history of science fiction with an emphasis on short stories, beginning with emerging works in the 19th century and spanning the so-called "Golden Age" and its aftermath. We will examine the genre's engagement with our changing relationship with technology, real and imagined, considering both utopian and dystopian visions and the role of shifting political and social landscapes in shaping the genre of science fiction.
 
-In this course we’ll take a hands-on approach to digital archives across a range of “texts,” from digitally-preserved manuscripts to born-digital interactive texts. Throughout, we’ll combine theory and practice, using digital open-source tools for the preservation and curation of text and metadata. We’ll explore the challenges and opportunities that come with emerging platforms, and uncover the vanishing histories of textual forms in the face of changing standards. Our inspiration will include both “official” archives and fan archives, or what Abigail de Kosnik terms “rogue archives,” which offer important models for shaping our digital cultural memory -- from the Internet Archive and the Wayback Machine to the fanfiction hub of Archive of Our Own. Coursework will consist of ongoing discussions and iterative projects building technical and procedural literacy through digital archive technologies and information visualization.
+Throughout our journey, we will read both works from recognizable "classic" authors as well as a selection of works from intersecting traditions and genres, including a number of works in translation. Our readings will follow a historical trajectory, allowing us to consider the shifting themes, conflicts, and ideologies of the works in question. Students will select 4 short stories for close readings based on their own thematic interests, and then complete a longer research paper putting a set of of stories into conversation.
 
-Each week, plan on following the module for all asynchronous activities. Each module will include:
+Course outcomes consist of:
 
-- **Weekly Readings and Lecture.** As this is an asynchronous class, a pre-recorded lecture will be included in every module along with the week's required readings. Required readings might include additional material for viewing or listening, as well as digital archives to explore.
-- **Technical Exercises.** Each week will include a step-by-step tutorial working towards the four archive exercises of the semester: an Omeka archive; a Scalar exhibition; a TimelineJS visualization; and a Voyant text analysis.
-- **Discussions.** The ten required discussion topics will include reporting back on the technical exercise progress; reflecting on the design and approach of existing archives; and responding to provocations from the readings.
+- **Weekly Readings, Discussion, and Lecture.** Note that readings are assigned for discussion on both Tuesdays and Thursdays prior to our scheduled in-person class meetings: while the works in question are all short stories or short essays, students are advised to consider the full week's readings when planning their time.
+- **Close Readings.** Students will select 4 short stories for close readings based on their own thematic interests. Close readings should be on related stories for best results: ideally, these reading responses will serve as partial drafts of the research paper.
+- **Final Research Paper.** In a final research paper and draft, students will draw connections across their selected short stories and build an argument for a significant theme, change, or conflict in the genre across time. The final research paper is due during our scheduled final exam period, and serves as the final evaluation for the course.
 
 ---
 
 ## Course Objectives
 
-- Explore principles of traditional and digital archiving across platforms and materialities
-- Assess and evaluate archive design, content, usability, and metadata in existing digital humanities projects
-- Become familiar with open source tools for digital archiving and exhibition, including Omeka and Scalar
-- Develop technical skills with tools for digital archiving and text exploration at scale, using TimelineJS and Voyant
-- Understand challenges of copyright and ownership, as well as tensions over "abandonware" and digital works
+- Understand significant themes, conflicts, and movements across the history of science fiction
+- Develop a historical perspective on science fiction, incorporating works spanning over a century of global storytelling
+- Engage the short story as a format, considering style, structure, and authorial choices
+- Build close reading skills through iterative analysis, working to incorporate both primary and secondary sources
+- Analyze and critique works through a wide range of theoretical lenses
 
 ---
 
 ## Materials and Texts
 
-This course requires no texbook or software purchases. The primary texts are available for free through the UCF library, and all additional readings included in the weekly listings are freely available online. To access the textbooks through the UCF library, use the following links:
+This course uses a short story reader to minimize costs: note that in addition to being available through the UCF bookstore, this book is also frequently available at a lower cost from used booksellers. The secondary text is also accessible through free using the UCF library.
 
-- Trevor Owens, *Theory and Craft of Digital Preservation.* [Unlimited use ebook available through UCF](https://ucf-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UCF/rh57g9/cdi_askewsholts_vlebooks_9781421426983)
-- Abigail De Kosnik, *Rogue Archives.* [Unlimited use ebook available through UCF](https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=5966612)
+- Ann and Jeff Vandermeer, *The Big Book of Science Fiction.* Knopf Doubleday, 2016.
+- Sherryl Vint, *Science Fiction.* [Unlimited use ebook available through UCF](https://forthcoming)
   
-In addition, each module includes samples, tutorials, and resources to guide the projects and discussions.
+In addition, some weeks include seleced essays. Those will be available on Webcourses as PDFs.
 
 ---
 
@@ -95,10 +107,10 @@ In addition, each module includes samples, tutorials, and resources to guide the
 
 | Points  | Assignment Summary | Due Date  |
 |---|---|---|
-| 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, January 14, 2022  |
-| 50  | **Weekly Discussions** - Weekly discussions (10) will vary, with topics to include reporting back on the technical exercise progress; reflecting on the design and approach of existing archives; and responding to provocations from the readings. There are no discussions on weeks projects are due. Discussion posts each require 350 words, with the exception of weeks marked GR (Gordon Rule), which require the submission of 500 word drafts for archive exercise statements. | Weekly |
-| 40 | **Archive Exercises** - Students will build technical skills through four digital humanities exercises, building an Omeka archive; a Scalar exhibition; a TimelineJS visualization; and a Voyant text analysis. Each exercise includes a 750 word written component, which should be revised from the draft discussions as indicated, and will require students to position their work relative to research and examples from the field.  | See dates in weekly schedule  |
-| 5 | **Final Reflection** - In a short (750 word) written reflection during final exam week, students will connect the readings to their progress in making and analyzing digital archives, and speculate on the future of digital archive design. | |
+| 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, January 13, 2022  |
+| 60  | **Close Readings** - Close readings (4) require 500-750 word responses to a selected short story from the indicated timeframe. Each reading should cite at least three secondary sources, and engage with the student's area of focus, building towards a larger paper project. | Deadlines in Schedule |
+| 15 | **Paper Draft** - Students will complete a larger paper drawing connections between disparate short stories and placing their selected works into conversation, with at least 10 sources in MLA style. Drafts should be 3000 - 3500 words.  | Thursday, March 30th  |
+| 20 | **Final Paper** - Students will complete significant revision based on instructor feedback to complete a substantial research paper. Final papers should be 4000 - 4500 words. | |
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 (all listed points above equated to 1% point) following the standard letter scale below:
 
@@ -117,144 +129,236 @@ Students can access their grades and feedback at any time using the Grade Book f
 
 Late work is accepted without penalty through the next major assignment deadline. If circumstances require extension beyond that deadline, please reach out to the instructor immediately.
 
-There is one extra credit opportunity, discussion eleven, as listed in the weekly schedule: this opportunity is worth five points, and can replace a missed discussion or partial credit for a missed archive exercise. There are no other extra credit opportunities in this class. Grades will be available through Webcourses and updated weekly.
-
----
-
-## Asynchronous Online Course Structure
-
-This course uses a fully asynchronous online format, and relies upon students to complete all readings, engage with both course lectures and other online videos, and join in on course discussions. All assignments are due at the close of their listed module, but will be accepted with no penalty for one week. Once an assignment closes, late work will require approval of the instructor: please reach out as soon as possible to discuss.
-
-- The course has no synchronous meetings. Office hour assistance is additionally available both through text on Webcourses messages and via Zoom: Zoom is recommended for advanced technical problems, where screen-sharing might be helpful to resolving errors.
-- Students will need access to a reliable internet connection and computer to participate in this course. Both PCs and Macs are welcome: tools are browser-based, and do not require the installation of additional software.
-- In the event of an emergency or medical challenge, additional flexibility beyond the grading guidelines is available: when anticipated, students should reach out to the instructor as soon as feasible to form a plan or discuss an incomplete if needed.
-
-All modules open on the listed dates (Mondays), and all assignments close on Sunday nights at 11:59PM as noted throughout the weekly schedule.
-
----
-
 ## Weekly Schedule
 
-### Week One: Introduction (Monday, January 10)
+### Week One: Introduction (Tuesday, January 10)
 
-- Read: Owens, Beyond Digital Hype and Digital Anxiety
-- Explore: [Florida Memory](https://www.floridamemory.com/)
-- Make: Create an Omeka Account
-- **Due: Activity Verification (Friday January 14th)**
-- **Discussion One: Introductions**
+- Syllabus overview and expectations
+- Discussion: Defining science fiction
 
-### Week Two: Preservation (Monday, January 17)
+### Week One: 1900s (Thursday, January 12)
 
-- Read:  Owens, Preservation's Divergent Lineages
-- Explore: [Square Dance History Project](https://squaredancehistory.org/)
-- Make: Adding Omeka Content
-- **Discussion Two: Critiquing Preservation**
+- Introduction - Vandermeer
+- The Star (1897) H. G. Wells
+- Sultana's Dream (1905) Rokeya Sakhawat Hossain
+- The Triumph of Mechanics (1907) Karl Hans Strobl
+- **Due: Activity Verification (Friday January 13th)**
 
-### Week Three: Digital Objects (Monday, January 24)
+### Week Two: 1910s (Tuesday, January 17)
 
-- Read: Owens, Understanding Digital Objects
-- Explore: [Kentucky Oral History](https://kentuckyoralhistory.org/)
-- Make: Understanding Omeka Metadata
-- **Discussion Three: Draft of Omeka (GR)**
+- Paul Scheerbart and the art of science fiction, C Partsch - Scheerbart.pdf
+- The New Overworld (1911) Paul Scheerbart
+- Elements of Pataphysics (1911) Alfred Jarry
+- Mechanopolis (1913) Miguel de Unamuno
+- The Doom of Principal City (1918) Yefim Zozulya
 
-### Week Four: Challenges (Monday, January 31)
+### Week Two: 1920s (Thursday, January 19)
 
-- Read: Owens, Challenges and Opportunities of Digital Preservation
-- Explore: [*Canada Declassified*](https://declassified.library.utoronto.ca/)
-- Make: Finish Omeka Prototype
-- **Archive Exercise One: Omeka Due (GR)**
+- Vint - Introduction: Whose Science Fiction?
+- Afrofuturism, science fiction, and the history of the future, Lisa Yaszek- Afrofuturism.pdf
+- The Comet(1920) W. E. B. Du Bois
+- The Fate of the Poseidonia (1927) Clare Winger Harris
+- The Star Stealers (1965) Edmond Hamilton (variant of The Star-Stealers 1929)
+
+### Week Three: 1930s (Tuesday, January 24)
+
+- Vint - The Utopian Tradition
+- The Conquest of Gola (1931) Leslie F. Stone
+- A Martian Odyssey (1934) Stanley G. Weinbaum
+- The Last Poet and the Robots (1934) A. Merritt
+- The Microscopic Giants (1936) Paul Ernst
+
+### Week Three: 1940s (Thursday, January 26)
+
+- Idealism and Dystopia in Tlön, Uqbar, Orbis Tertius, John R. Clark - Borges.pdf
+- Tion, Uqbar, Orbis Tertius (1940) Jorge Luis Borges 
+- Desertion (1944) Clifford D. Simak
+- September 2005: The Martian (1951) Ray Bradbury (variant of The Martian 1949)
+- **Due: Close Reading #1**
+
+### Week Four: Entering the 1950s (Tuesday, January 31)
+
+- Vint - Futurology and Speculative Design
+- Surface Tension  (1952) James Blish
+- Beyond Lies the Wub (1952) Philip K. Dick
+- The Snowball Effect(1952) Katherine MacLean
+- Prott (1953) Margaret St. Clair
   
-### Week Five: Craft (Monday, February 7)
+### Week Four: Earth and Stars (Thursday, February 2)
 
-- Read: Owens, Craft of Digital Preservation
-- Explore: [*Alice Online: The Works and World of Lewis Carroll*](https://scalar.usc.edu/works/alice-online/index)
-- Make: Create a Scalar Account
-- **Discussion Four: Exploring Craft**
+- Obituary - Clarke.pdf
+- The Liberation of Earth (1953) William Tenn
+- Let Me Live in a House (1954) Chad Oliver
+- The Star (1955) Arthur C. Clarke
+- Grandpa (1955) James H. Schmitz
 
-### Week Six: Formats (Monday, February 14)
+### Week Five: Strangers and Visitors (Tuesday, February 7)
 
-- Read: Owens, Preservation Intent + Managing Copies and Formats
-- Explore: [*Performing Archive*](https://scalar.usc.edu/works/performingarchive/index)
-- Make: Connecting Archives in Scalar
-- **Discussion Five: Format Challenges**
+- Vint - The Colonial Imagination
+- The Last Question (1956) Isaac Asimov
+- Stranger Station (1956) Damon Knight
+- Sector General (1957) James White
+- The Visitors (1958) Arkady Strugatsky and Boris Strugatsky
+
+### Week Five: Closing the 1950s (Thursday, February 9)
+
+- The Short Story, Chris Power - Ocampo.pdf
+- Pelt (1958) Carol Emshwiller
+- The Man Who Lost the Sea (1959) Theodore Sturgeon
+- The Waves(1959) Silvina Ocampo 
+- Plenitude (1959)  Will Mohler
+- **Due: Close Reading #2**
+
+### Week Six: Entering the 1960s (Tuesday, February 14)
+
+- Vint - Robots, AI, and Transhumanism
+- The Voices of Time (1960) J. G. Ballard
+- The Astronaut (1960) Valentina Zhuravlyova
+- The Squid Chooses Its Own Ink (1962) Adolfo Bioy Casares 
+- 2 B R 0 2 B (1962) Kurt Vonnegut, Jr.
   
-### Week Seven: Metadata (Monday, February 21)
+### Week Six: Wrath and Darkness (Thursday, February 16)
 
-- Read: Owens, Arranging and Describing Digital Objects
-- Explore: [*Bodies and Structures 2.0*](https://bodiesandstructures.org/bodies-and-structures-2/index)
-- Make: Linking and Representing Ideas in Scalar
-- **Discussion Six: Draft of Scalar Exhibition (GR)**
+- A Modest Genius (1963)  Vadim Shefner
+- Day of Wrath (1965) Sever Gansovsky
+- The Hands (1965) John Baxter
+- Darkness (1963) Andre Carneiro
+- "Repent, Harlequin!" Said the Ticktockman (1965) Harlan Ellison
 
-### Week Eight: Multimodal (Monday, February 28)
+### Week Seven: Bodies (Tuesday, February 21)
 
-- Read: Owens, Enabling Multimodal Access and Use
-- Explore: Explore: [*Pathfinders: Documenting the Experience of Early Digital Literature.*](https://scalar.usc.edu/works/pathfinders/index)
-- Make: Finish Scalar Exhibition
-- **Archive Exercise Two: Scalar Due (GR)**
+- Vint - Genomics, the Microbiome, and Posthumanism
+- Nine Hundred Grandmothers(1966) R. A. Lafferty
+- Day Million (1966) Frederik Pohl
+- Student Body (1953) F. L. Wallace
+- Aye, and Gomorrah (1967) Samuel R. Delany
 
-### Spring Break: Enjoy the holiday! (Monday, March 7)
+### Week Seven: Closing the 1960s (Thursday, February 23)
 
-### Week Nine: Tools (Monday, March 14)
+- The Hall of Machines (1968) Langdon Jones
+- Soft Clocks â€¢ (1968) Yoshio Aramaki
+- No Cracks or Sagging (1970) David R. Bunch 
+- New Kings Are Not for Laughing (1971) David R. Bunch
+- **Due: Close Reading #3**
 
-- Read: Owens, Tools for Looking Forward
-- Explore: [*The Knotted Line*](https://scalar.usc.edu/anvc/the-knotted-line/index)
-- Make: Working with Google Sheets
-- **Discussion Seven: Evaluating Tools**
+### Week Eight: Into the 1970s (Tuesday, February 28)
 
-### Week Ten: Timelines (Monday, March 21)
+- Vint - Environment, Climate Change, and the Anthropocene
+- Let Us Save the Universe (An Open Letter from Ijon Tichy) (1971) Stanslaw Lem
+- Vaster Than Empires and More Slow (1971) Ursula K. Le Guin
+- Good News from the Vatican (1971) Robert Silverberg
+- When It Changed (1972) Joanna Russ
 
-- Read: De Kosnik, Introduction and Key Terms
-- Explore: [*Throughlines: Social Injustice and Activism in Los Angeles*](https://scalar.usc.edu/works/throughlines/index)
-- Make: Embedding Multimodal Content
-- **Discussion Eight: Timeline JS Draft (GR)**
+### Week Eight: Names (Thursday, March 2)
 
-### Week Eleven: Memory (Monday, March 28)
+- Philosophical Insights from James Tiptree Jr, Michal Rea - Tiptree.pdf
+- And I Awoke and Found Me Here on the Cold Hill's Side (1972) James Tiptree, Jr.
+- Where Two Paths Cross (1973) Dmitri Bilenkin
+- Standing Woman  (1974) Yasutaka Tsutsui
 
-- Read: De Kosnik, Memory Machine Myth
-- Explore: [Internet Archive](https://archive.org/)
-- Make: Finishing your Timeline
-- **Archive Exercise Three: TimelineJS Due (GR)**
+### Week Nine: Closing the 1970s (Tuesday, March 7)
+
+- Vint - Economics and Financialization
+- The IWM 1000 (1975) Alicia Yánez Cossío
+- The House of Compassionate Sharers (1977) Michael Bishop
+- Sporting with the Chid (1979) Barrington J. Bayley
+- Sandkings (1979)  George R. R. Martin
+
+### Week Nine: Into the 1980s (Thursday, March 9)
+
+- Wives (1979) Lisa Tuttle
+- The Snake Who Had Read Chomsky (1981) Josephine Saxton
+- Reiko's Universe Box (1981) Kajio Shinji
+- Swarm (1982) Bruce Sterling
+- **Due: Close Reading #4**
+
+### Spring Break: Enjoy the holiday!
+
+### Week Ten: Concluding Vint (Tuesday, March 21)
+
+- Vint - Conclusion
+- Mondocane (1983) Jacques Barberi
+- Blood Music (1983) Greg Bear
+- Bloodchild (1984) Octavia E. Butler
+- Variation on a Man (1984) Pat Cadigan
+
+### Week Ten: Artifice (Thursday, March 23)
+
+- Passing as a Flower in the City of the Dead (1984) Sharon N. Farber [as by S. N. Dyer]
+- New Rose Hotel (1984) William Gibson
+- Pots  (1985)  C. J. Cherryh
+- Snow (1985) John Crowley
+- The Lake Was Full of Artificial Things (1985) Karen Joy Fowler
+
+### Week Eleven: Art and Culture (Tuesday, March 28)
+
+- The Unmistakable Smell of Wood Violets (1991) Angélica Gorodischer
+- The Owl of Bear Island (1986) Jon Bing
+- Readers of the Lost Art (1987) Élisabeth Vonarburg
+- A Gift from the Culture (1987) Iain M. Banks
+- Paranamanco (1988) Jean-Claude Dunyach
   
-### Week Twelve: Styles (Monday, April 4)
+### Week Eleven: Drafts Due (Thursday, March 30)
 
-- Read: De Kosnik, Archival Styles
-- Explore: [Archive of Our Own](https://archiveofourown.org/)
-- Make: Choosing a Set of Texts
-- **Discussion Nine: Textual Analysis**
+- Crying in the Rain (1987) Tanith Lee
+- The Frozen Cardinal (1987) Michael Moorcock
+- Rachel in Love (1987) Pat Murphy
+- Sharing Air (1984) Manjula Padmanabhan
+- **Due: Paper Draft**
 
-### Week Thirteen: Histories (Monday, April 11)
+### Week Twelve: Closing the 1980s (Tuesday, April 4)
 
-- Read: De Kosnik, Queer and Feminist Archival Cultures
-- Explore: [Robots Reading Vogue](https://dhlab.yale.edu/projects/vogue/)
-- Make: Visualizing Words
-- **Discussion Ten: Voyant Draft (GR)**
+- Schwarzschild Radius (1987) Connie Willis
+- All the Hues of Hell (1987) Gene Wolfe
+- Vacuum States (1988) Geoffrey A. Landis
+- Two Small Birds (1988) Han Song
+- Burning Sky (1989) Rachel Pollack
 
-### Week Fourteen: Futures (Monday, April 18)
+### Week Twelve: Entering the 1990s (Thursday, April 6)
 
-- Read: De Kosnik, Print Fans vs Net Fans & Archontic Production
-- Explore: [LGBTQ Video Game Archive](https://lgbtqgamearchive.com/)
-- Make: Understanding a Corpus
-- **Discussion Eleven (Optional Extra Credit / Make-up Discussion)**
+- Before I Wake (1989) Kim Stanley Robinson
+- Death Is Static Death Is Movement (1990) Misha Nogha
+- The Brains of Rats (1986) Michael Blumlein
+- Gorgonoids (1992) Leena Krohn
+- Vacancy for the Post of Jesus Christ (1992) Kojo Laing
 
-### Week Fifteen: Data (Monday, April 25)
+### Week Thirteen: Transitions (Tuesday, April 11)
 
-- Read: De Kosnik, Fan Data
-- Explore: [Archive Team](https://wiki.archiveteam.org/)
-- Make: Finishing
-- **Archive Exercise Four: Voyant Due (GR)**
+- The Universe of Things (1993) Gwyneth Jones
+- The Remoras (1994) Robert Reed
+- The Ghost Standard (1994) William Tenn
+- Remnants of the Virago Crypto-System (1995) Geoffrey Maloney
+- How Alex Became a Machine (1997) Stepan Chapman
 
-### Final Exam: Reflection (Due Sunday, May 1st)
+### Week Thirteen: Entering 2000 (Thursday, April 13)
 
-- Submit & complete your reflection (GR), as well as any approved late work, by 11:59PM on Sunday, May 1st! As this is an asynchronous online class, reflections 
+- The Poetry Cloud (2003) Cixin Liu
+- Story of Your Life (1998) Ted Chiang
+- Craphound (1998) Cory Doctorow
+- The Slynx (2007) Tatyana Tolstaya
+- Baby Doll (2002) Johanna Sinisalo 
 
----
+### Week Fourteen: Futures (Tuesday, April 18)
+
+- [Charlie Jane Anders, Six Months, Three Days (2011)](https://www.tor.com/2011/06/08/six-months-three-days/)
+- [Ken Liu, Paper Menagerie (2012)](https://gizmodo.com/read-ken-lius-amazing-story-that-swept-the-hugo-nebula-5958919)
+- [Naomi Kritzer, Cat Pictures Please (2015)](https://clarkesworldmagazine.com/kritzer_01_15/)
+- [N.K. Jemisin, The City Born Great (2016)](https://www.tor.com/2016/09/28/the-city-born-great/)
+- [Annalee Newitz, #Selfcare (2021)](https://www.tor.com/2021/01/19/selfcare-annalee-newitz/)
+
+### Week Fourteen: Conclusions (Thursday, April 20)
+
+- Selected stories from 2022 (TBA)
+
+### Final Paper: Due During Exam Period
+
+- See UCF Calendar
 
 ## General Policies
 
 ### Gordon Rule and Academic Standards
 
-This course is a Gordon Rule course. It contains 6000 words of evaluated writing as required by the English Department.
-Assignments which fulfill the Gordon Rule are indicated with GR on the weekly schedule. Each has the following characteristics:
+This course is a Gordon Rule course. It contains 6000 words of evaluated writing as required by the English Department. Assignments which fulfill the Gordon Rule have the following characteristics:
 
 1. The writing will have a clearly defined central idea or thesis
 2. It will provide adequate support for that idea
@@ -262,7 +366,7 @@ Assignments which fulfill the Gordon Rule are indicated with GR on the weekly sc
 4. It will show awareness of the conventions of standard written English
 5. It will be formatted or presented in an appropriate way.
 
-All major exercises will first be submitted as drafts, as indicated in the weekly schedule, then revised for a total of four short multi-page written assignments. These exercises are complemented by regular written discussion posts, and a short final reflective essay.
+Short close readings serve as drafts for sections of the final paper, and should be expanded and refined through an iterative writing process building towards a full and revised draft.
 
 ### Academic Integrity
 
