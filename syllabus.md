@@ -97,9 +97,9 @@ Course outcomes consist of:
 This course uses a short story reader to minimize costs: note that in addition to being available through the UCF bookstore, this book is also frequently available at a lower cost from used booksellers. The secondary text is also accessible through free using the UCF library.
 
 - Ann and Jeff Vandermeer, *The Big Book of Science Fiction.* Knopf Doubleday, 2016.
-- Sherryl Vint, *Science Fiction.* [Unlimited use ebook available through UCF](https://forthcoming)
+- Sherryl Vint, *Science Fiction.* [Unlimited use ebook available through UCF](https://ucf-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UCF/faevv6/alma99383867776406596)
   
-In addition, some weeks include seleced essays. Those will be available on Webcourses as PDFs.
+In addition, some weeks include selected essays. Those will be available on Webcourses as PDFs.
 
 ---
 
@@ -108,9 +108,9 @@ In addition, some weeks include seleced essays. Those will be available on Webco
 | Points  | Assignment Summary | Due Date  |
 |---|---|---|
 | 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, January 13, 2022  |
-| 60  | **Close Readings** - Close readings (4) require 500-750 word responses to a selected short story from the indicated timeframe. Each reading should cite at least three secondary sources, and engage with the student's area of focus, building towards a larger paper project. | Deadlines in Schedule |
-| 15 | **Paper Draft** - Students will complete a larger paper drawing connections between disparate short stories and placing their selected works into conversation, with at least 10 sources in MLA style. Drafts should be 3000 - 3500 words.  | Thursday, March 30th  |
-| 20 | **Final Paper** - Students will complete significant revision based on instructor feedback to complete a substantial research paper. Final papers should be 4000 - 4500 words. | |
+| 60  | **Close Readings** - Close readings (4) require 500-750 word responses to a selected short story from the indicated timeframe building an interpretation of the text. Each reading should cite at least three secondary sources, and engage with the student's area of focus, building towards a larger paper project. GR. | Deadlines in Schedule |
+| 15 | **Paper Draft** - Students will complete a larger paper drawing connections between disparate short stories and placing their selected works into conversation, with at least 10 sources in MLA style. Drafts should be 3000 - 3500 words. GR. | Thursday, March 30th  |
+| 20 | **Final Paper** - Students will complete significant revision based on instructor feedback to complete a substantial research paper. Final papers should be 4000 - 4500 words. GR. | |
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 (all listed points above equated to 1% point) following the standard letter scale below:
 
@@ -358,7 +358,7 @@ Late work is accepted without penalty through the next major assignment deadline
 
 ### Gordon Rule and Academic Standards
 
-This course is a Gordon Rule course. It contains 6000 words of evaluated writing as required by the English Department. Assignments which fulfill the Gordon Rule have the following characteristics:
+This course is a Gordon Rule course. It contains 6000 words of evaluated writing as required by the English Department. Assignments which fulfill the Gordon Rule are marked in the assignments list as GR, and have the following characteristics:
 
 1. The writing will have a clearly defined central idea or thesis
 2. It will provide adequate support for that idea
