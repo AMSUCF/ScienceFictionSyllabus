@@ -97,7 +97,7 @@ Course outcomes consist of:
 This course uses a short story reader to minimize costs: note that in addition to being available through the UCF bookstore, this book is also frequently available at a lower cost from used booksellers. The secondary text is also accessible through free using the UCF library.
 
 - Ann and Jeff Vandermeer, *The Big Book of Science Fiction.* Knopf Doubleday, 2016.
-- Sherryl Vint, *Science Fiction.* [Unlimited use ebook available through UCF](https://ucf-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UCF/faevv6/alma99383867776406596)
+- Sherryl Vint, *Science Fiction.* MIT Press, 2021. [Unlimited use ebook available through UCF](https://ucf-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UCF/faevv6/alma99383867776406596)
   
 In addition, some weeks include selected essays. Those will be available on Webcourses as PDFs.
 
