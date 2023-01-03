@@ -18,6 +18,7 @@
   - [Course Objectives](#course-objectives)
   - [Materials and Texts](#materials-and-texts)
   - [Evaluation and Grading](#evaluation-and-grading)
+    - [Syllabus Amendment](#syllabus-amendment)
   - [Weekly Schedule](#weekly-schedule)
     - [Week One: Introduction (Tuesday, January 10)](#week-one-introduction-tuesday-january-10)
     - [Week One: 1900s (Thursday, January 12)](#week-one-1900s-thursday-january-12)
@@ -48,7 +49,7 @@
     - [Week Thirteen: Entering 2000 (Thursday, April 13)](#week-thirteen-entering-2000-thursday-april-13)
     - [Week Fourteen: Futures (Tuesday, April 18)](#week-fourteen-futures-tuesday-april-18)
     - [Week Fourteen: Conclusions (Thursday, April 20)](#week-fourteen-conclusions-thursday-april-20)
-    - [Final Paper: Due During Exam Period](#final-paper-due-during-exam-period)
+    - [Final Paper: (Thursday, April 27th)](#final-paper-thursday-april-27th)
   - [General Policies](#general-policies)
     - [Gordon Rule and Academic Standards](#gordon-rule-and-academic-standards)
     - [Academic Integrity](#academic-integrity)
@@ -107,10 +108,10 @@ In addition, some weeks include selected essays. Those will be available on Webc
 
 | Points  | Assignment Summary | Due Date  |
 |---|---|---|
-| 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, January 13, 2022  |
+| 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, January 13, 2023  |
 | 60  | **Close Readings** - Close readings (4) require 500-750 word responses to a selected short story from the indicated timeframe building an interpretation of the text. Each reading should cite at least three secondary sources, and engage with the student's area of focus, building towards a larger paper project. GR. | Deadlines in Schedule |
 | 15 | **Paper Draft** - Students will complete a larger paper drawing connections between disparate short stories and placing their selected works into conversation, with at least 10 sources in MLA style. Drafts should be 3000 - 3500 words. GR. | Thursday, March 30th  |
-| 20 | **Final Paper** - Students will complete significant revision based on instructor feedback to complete a substantial research paper. Final papers should be 4000 - 4500 words. GR. | |
+| 20 | **Final Paper** - Students will complete significant revision based on instructor feedback to complete a substantial research paper. Final papers should be 4000 - 4500 words. GR. | Thursday, April 27th, 2023 |
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 (all listed points above equated to 1% point) following the standard letter scale below:
 
@@ -128,6 +129,10 @@ Students can access their grades and feedback at any time using the Grade Book f
 | Under 60% | F |
 
 Late work is accepted without penalty through the next major assignment deadline. If circumstances require extension beyond that deadline, please reach out to the instructor immediately.
+
+### Syllabus Amendment
+
+In the event of disruptions during the semester or other circumstances necessitating updates to the syllabus, any amendments will be communicated both in class and through Webcourses.
 
 ## Weekly Schedule
 
@@ -348,11 +353,11 @@ Late work is accepted without penalty through the next major assignment deadline
 
 ### Week Fourteen: Conclusions (Thursday, April 20)
 
-- Selected stories from 2022 (TBA)
+- Selected stories from 2023 (TBA)
 
-### Final Paper: Due During Exam Period
+### Final Paper: (Thursday, April 27th)
 
-- See UCF Calendar
+- Support and feedback available during scheduled session (10:00 AM and 12:50PM )
 
 ## General Policies
 
