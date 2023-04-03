@@ -353,7 +353,10 @@ In the event of disruptions during the semester or other circumstances necessita
 
 ### Week Fourteen: Conclusions (Thursday, April 20)
 
-- Selected stories from 2023 (TBA)
+- [NORCO Act One (Free on GOG and Steam)](https://www.gog.com/game/norco_act_one)
+- [Raised by Wolves (First episode free on YouTube)](https://www.youtube.com/watch?v=YIAIiw8UAfA)
+- [Department of Truth (First issue free on Image)](https://imagecomics.com/read/the-department-of-truth)
+- [Moon Girl and Devil Dinosaur (First episode free on YouTube)](https://www.youtube.com/watch?v=Vq3geyQP2-4)
 
 ### Final Paper: (Thursday, April 27th)
 
