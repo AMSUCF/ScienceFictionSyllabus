@@ -350,6 +350,7 @@ In the event of disruptions during the semester or other circumstances necessita
 - [Naomi Kritzer, Cat Pictures Please (2015)](https://clarkesworldmagazine.com/kritzer_01_15/)
 - [N.K. Jemisin, The City Born Great (2016)](https://www.tor.com/2016/09/28/the-city-born-great/)
 - [Annalee Newitz, #Selfcare (2021)](https://www.tor.com/2021/01/19/selfcare-annalee-newitz/)
+- [Rebecca Roanhorse, Welcome to Your Authentic Indian Experience (2017)](https://apex-magazine.com/short-fiction/welcome-to-your-authentic-indian-experience/)
 
 ### Week Fourteen: Conclusions (Thursday, April 20)
 
