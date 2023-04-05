@@ -346,11 +346,10 @@ In the event of disruptions during the semester or other circumstances necessita
 ### Week Fourteen: Futures (Tuesday, April 18)
 
 - [Charlie Jane Anders, Six Months, Three Days (2011)](https://www.tor.com/2011/06/08/six-months-three-days/)
-- [Ken Liu, Paper Menagerie (2012)](https://gizmodo.com/read-ken-lius-amazing-story-that-swept-the-hugo-nebula-5958919)
 - [Naomi Kritzer, Cat Pictures Please (2015)](https://clarkesworldmagazine.com/kritzer_01_15/)
 - [N.K. Jemisin, The City Born Great (2016)](https://www.tor.com/2016/09/28/the-city-born-great/)
-- [Annalee Newitz, #Selfcare (2021)](https://www.tor.com/2021/01/19/selfcare-annalee-newitz/)
 - [Rebecca Roanhorse, Welcome to Your Authentic Indian Experience (2017)](https://apex-magazine.com/short-fiction/welcome-to-your-authentic-indian-experience/)
+- [Annalee Newitz, #Selfcare (2021)](https://www.tor.com/2021/01/19/selfcare-annalee-newitz/)
 
 ### Week Fourteen: Conclusions (Thursday, April 20)
 
